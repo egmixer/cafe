@@ -13,7 +13,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im1pQkpRNWxYZElZdU0wVlNPMFFONCJ9.eyJpc3MiOiJodHRwczovL2hhemVtZWxzYXd5LnVzLmF1dGgwLmNvbS8iLCJzdWIiOiJnb29nbGUtb2F1dGgyfDExMzQ4MjMwODU1ODU0NjI3NTI1MiIsImF1ZCI6WyJjb2ZmZWUtc2hvcCIsImh0dHBzOi8vaGF6ZW1lbHNhd3kudXMuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTYwNzIyNTQ3MCwiZXhwIjoxNjA3MjMyNjcwLCJhenAiOiJYYnNrVEk0NHRoZmNWMUU2RmVCZHlpYVdWZndzZXhaMSIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwiLCJwZXJtaXNzaW9ucyI6WyJkZWxldGU6ZHJpbmtzIiwiZ2V0OmRyaW5rcyIsImdldDpkcmlua3MtZGV0YWlsIiwicGF0Y2g6ZHJpbmtzIiwicG9zdDpkcmlua3MiXX0.PzNqRJlRhHy91PAOGI6qXPMsJ76iQx0Fgc8i-aD6zk9NNKxs-sDZOErB9zV022J3teAFlkLWTQM52LighatzgNW_anUmppFk0Up9XuSsueh3CWKr4Il9Lga45THdXSXoPUQyvT3Skh66mevuLPWktS4wjtO71CQenKYSvVEjre_v7FTF7XGHozZSR958XjyHeN2HBkX7KQIDYFwYUmgtdjx2nfqLt89-uTeoaSTiH6r4lyMGxjGI_Ke0abn7UzUfLLZIVpGVtfTCPeLc3Js2kYci0XmRXk5OafmrCCkuNjiVkxJreCiDaTaRRxCkE4HXD6hyGLikyU-rPzb6dw5eXQ",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im1pQkpRNWxYZElZdU0wVlNPMFFONCJ9.eyJpc3MiOiJodHRwczovL2hhemVtZWxzYXd5LnVzLmF1dGgwLmNvbS8iLCJzdWIiOiJnb29nbGUtb2F1dGgyfDExMzQ4MjMwODU1ODU0NjI3NTI1MiIsImF1ZCI6WyJjb2ZmZWUtc2hvcCIsImh0dHBzOi8vaGF6ZW1lbHNhd3kudXMuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTYwNzI1NzcxMCwiZXhwIjoxNjA3MzQ0MTEwLCJhenAiOiJYYnNrVEk0NHRoZmNWMUU2RmVCZHlpYVdWZndzZXhaMSIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwiLCJwZXJtaXNzaW9ucyI6WyJkZWxldGU6ZHJpbmtzIiwiZ2V0OmRyaW5rcyIsImdldDpkcmlua3MtZGV0YWlsIiwicGF0Y2g6ZHJpbmtzIiwicG9zdDpkcmlua3MiXX0.cWGV7_3Dd6mBf1RgijaMH_DJ9r08eb8EAQA8xrMmA2rqIjXkp-Z9JZuAP1uaKolrTC6ISbvx1jAn5GfVqL2k2RPwWbJFeVyXKi0K7zKIQzr42TOfPyp7eM8YAvkz9G_pFw0Y2IoLhMh_r1ozmzY6EDM-DzTtedD-xS_-HtGrKfWS9816DCzE3fCDIhxqSzPo_FOgLehcEJ65vINQm2sjiH2Sl6qSFZJmkiYCQqI2sjBWa5S6TCtN3XxV-1RmeaAuLZTOdIbVtuUuB_pdjyDNHPIce-yW2Q1uENQn6n61BpU3AUAVAoReZI1S6yjbV9aC19G-wFjozvTvb4FK-sUFgA",
 							"type": "string"
 						}
 					]
@@ -54,7 +54,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im1pQkpRNWxYZElZdU0wVlNPMFFONCJ9.eyJpc3MiOiJodHRwczovL2hhemVtZWxzYXd5LnVzLmF1dGgwLmNvbS8iLCJzdWIiOiJnb29nbGUtb2F1dGgyfDExMzQ4MjMwODU1ODU0NjI3NTI1MiIsImF1ZCI6WyJjb2ZmZWUtc2hvcCIsImh0dHBzOi8vaGF6ZW1lbHNhd3kudXMuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTYwNzIyNTQ3MCwiZXhwIjoxNjA3MjMyNjcwLCJhenAiOiJYYnNrVEk0NHRoZmNWMUU2RmVCZHlpYVdWZndzZXhaMSIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwiLCJwZXJtaXNzaW9ucyI6WyJkZWxldGU6ZHJpbmtzIiwiZ2V0OmRyaW5rcyIsImdldDpkcmlua3MtZGV0YWlsIiwicGF0Y2g6ZHJpbmtzIiwicG9zdDpkcmlua3MiXX0.PzNqRJlRhHy91PAOGI6qXPMsJ76iQx0Fgc8i-aD6zk9NNKxs-sDZOErB9zV022J3teAFlkLWTQM52LighatzgNW_anUmppFk0Up9XuSsueh3CWKr4Il9Lga45THdXSXoPUQyvT3Skh66mevuLPWktS4wjtO71CQenKYSvVEjre_v7FTF7XGHozZSR958XjyHeN2HBkX7KQIDYFwYUmgtdjx2nfqLt89-uTeoaSTiH6r4lyMGxjGI_Ke0abn7UzUfLLZIVpGVtfTCPeLc3Js2kYci0XmRXk5OafmrCCkuNjiVkxJreCiDaTaRRxCkE4HXD6hyGLikyU-rPzb6dw5eXQ",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im1pQkpRNWxYZElZdU0wVlNPMFFONCJ9.eyJpc3MiOiJodHRwczovL2hhemVtZWxzYXd5LnVzLmF1dGgwLmNvbS8iLCJzdWIiOiJnb29nbGUtb2F1dGgyfDExMzQ4MjMwODU1ODU0NjI3NTI1MiIsImF1ZCI6WyJjb2ZmZWUtc2hvcCIsImh0dHBzOi8vaGF6ZW1lbHNhd3kudXMuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTYwNzI1NzcxMCwiZXhwIjoxNjA3MzQ0MTEwLCJhenAiOiJYYnNrVEk0NHRoZmNWMUU2RmVCZHlpYVdWZndzZXhaMSIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwiLCJwZXJtaXNzaW9ucyI6WyJkZWxldGU6ZHJpbmtzIiwiZ2V0OmRyaW5rcyIsImdldDpkcmlua3MtZGV0YWlsIiwicGF0Y2g6ZHJpbmtzIiwicG9zdDpkcmlua3MiXX0.cWGV7_3Dd6mBf1RgijaMH_DJ9r08eb8EAQA8xrMmA2rqIjXkp-Z9JZuAP1uaKolrTC6ISbvx1jAn5GfVqL2k2RPwWbJFeVyXKi0K7zKIQzr42TOfPyp7eM8YAvkz9G_pFw0Y2IoLhMh_r1ozmzY6EDM-DzTtedD-xS_-HtGrKfWS9816DCzE3fCDIhxqSzPo_FOgLehcEJ65vINQm2sjiH2Sl6qSFZJmkiYCQqI2sjBWa5S6TCtN3XxV-1RmeaAuLZTOdIbVtuUuB_pdjyDNHPIce-yW2Q1uENQn6n61BpU3AUAVAoReZI1S6yjbV9aC19G-wFjozvTvb4FK-sUFgA",
 							"type": "string"
 						}
 					]
@@ -96,7 +96,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im1pQkpRNWxYZElZdU0wVlNPMFFONCJ9.eyJpc3MiOiJodHRwczovL2hhemVtZWxzYXd5LnVzLmF1dGgwLmNvbS8iLCJzdWIiOiJnb29nbGUtb2F1dGgyfDExMzQ4MjMwODU1ODU0NjI3NTI1MiIsImF1ZCI6WyJjb2ZmZWUtc2hvcCIsImh0dHBzOi8vaGF6ZW1lbHNhd3kudXMuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTYwNzIyNTQ3MCwiZXhwIjoxNjA3MjMyNjcwLCJhenAiOiJYYnNrVEk0NHRoZmNWMUU2RmVCZHlpYVdWZndzZXhaMSIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwiLCJwZXJtaXNzaW9ucyI6WyJkZWxldGU6ZHJpbmtzIiwiZ2V0OmRyaW5rcyIsImdldDpkcmlua3MtZGV0YWlsIiwicGF0Y2g6ZHJpbmtzIiwicG9zdDpkcmlua3MiXX0.PzNqRJlRhHy91PAOGI6qXPMsJ76iQx0Fgc8i-aD6zk9NNKxs-sDZOErB9zV022J3teAFlkLWTQM52LighatzgNW_anUmppFk0Up9XuSsueh3CWKr4Il9Lga45THdXSXoPUQyvT3Skh66mevuLPWktS4wjtO71CQenKYSvVEjre_v7FTF7XGHozZSR958XjyHeN2HBkX7KQIDYFwYUmgtdjx2nfqLt89-uTeoaSTiH6r4lyMGxjGI_Ke0abn7UzUfLLZIVpGVtfTCPeLc3Js2kYci0XmRXk5OafmrCCkuNjiVkxJreCiDaTaRRxCkE4HXD6hyGLikyU-rPzb6dw5eXQ",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im1pQkpRNWxYZElZdU0wVlNPMFFONCJ9.eyJpc3MiOiJodHRwczovL2hhemVtZWxzYXd5LnVzLmF1dGgwLmNvbS8iLCJzdWIiOiJnb29nbGUtb2F1dGgyfDExMzQ4MjMwODU1ODU0NjI3NTI1MiIsImF1ZCI6WyJjb2ZmZWUtc2hvcCIsImh0dHBzOi8vaGF6ZW1lbHNhd3kudXMuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTYwNzI1NzcxMCwiZXhwIjoxNjA3MzQ0MTEwLCJhenAiOiJYYnNrVEk0NHRoZmNWMUU2RmVCZHlpYVdWZndzZXhaMSIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwiLCJwZXJtaXNzaW9ucyI6WyJkZWxldGU6ZHJpbmtzIiwiZ2V0OmRyaW5rcyIsImdldDpkcmlua3MtZGV0YWlsIiwicGF0Y2g6ZHJpbmtzIiwicG9zdDpkcmlua3MiXX0.cWGV7_3Dd6mBf1RgijaMH_DJ9r08eb8EAQA8xrMmA2rqIjXkp-Z9JZuAP1uaKolrTC6ISbvx1jAn5GfVqL2k2RPwWbJFeVyXKi0K7zKIQzr42TOfPyp7eM8YAvkz9G_pFw0Y2IoLhMh_r1ozmzY6EDM-DzTtedD-xS_-HtGrKfWS9816DCzE3fCDIhxqSzPo_FOgLehcEJ65vINQm2sjiH2Sl6qSFZJmkiYCQqI2sjBWa5S6TCtN3XxV-1RmeaAuLZTOdIbVtuUuB_pdjyDNHPIce-yW2Q1uENQn6n61BpU3AUAVAoReZI1S6yjbV9aC19G-wFjozvTvb4FK-sUFgA",
 							"type": "string"
 						}
 					]
@@ -124,10 +124,31 @@
 		{
 			"name": "Barista GET drinks-detail",
 			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im1pQkpRNWxYZElZdU0wVlNPMFFONCJ9.eyJpc3MiOiJodHRwczovL2hhemVtZWxzYXd5LnVzLmF1dGgwLmNvbS8iLCJzdWIiOiJnb29nbGUtb2F1dGgyfDExMzI1MTUwMDIyNjQ4MTA3NTIyNiIsImF1ZCI6WyJjb2ZmZWUtc2hvcCIsImh0dHBzOi8vaGF6ZW1lbHNhd3kudXMuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTYwNzI1Nzc1OCwiZXhwIjoxNjA3MzQ0MTU4LCJhenAiOiJYYnNrVEk0NHRoZmNWMUU2RmVCZHlpYVdWZndzZXhaMSIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwiLCJwZXJtaXNzaW9ucyI6WyJnZXQ6ZHJpbmtzIiwiZ2V0OmRyaW5rcy1kZXRhaWwiXX0.HsRB_CyyY02DfCa9MfvpW9sAFW0GGkhOb2_NJu9-oIK15dSASPJp4AyOEzpgsA6jRBmiSHgdxqfFCUDlEebfikxS6LNx1MPU3LHUPCQZToVTH_y1lfLc9YCMB49mK0xwCTQGW8h2JIE78G80mxcxLv_b3Axf8M5P3azgXsbU7a57rsWYby12jQMU4YuDAdeTI3fcKH7i74p1VyJfX69GUQydTXiEe-6LfQTUiaLvzAVsynQ4Nx-1JxmuUpozYmFhEeKDFtSMAx5N3ftzYB7ZeMPzMXKnWU-ykE6nI6I-U_BZy5tSoRDGwlzewoNDOe469j2su7oIq420qFMbDgLN8Q",
+							"type": "string"
+						}
+					]
+				},
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": ""
+					"raw": "http://127.0.0.1:5000/drinks-detail",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"drinks-detail"
+					]
 				}
 			},
 			"response": []
@@ -135,10 +156,31 @@
 		{
 			"name": "Barista GET drinks",
 			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im1pQkpRNWxYZElZdU0wVlNPMFFONCJ9.eyJpc3MiOiJodHRwczovL2hhemVtZWxzYXd5LnVzLmF1dGgwLmNvbS8iLCJzdWIiOiJnb29nbGUtb2F1dGgyfDExMzI1MTUwMDIyNjQ4MTA3NTIyNiIsImF1ZCI6WyJjb2ZmZWUtc2hvcCIsImh0dHBzOi8vaGF6ZW1lbHNhd3kudXMuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTYwNzI1Nzc1OCwiZXhwIjoxNjA3MzQ0MTU4LCJhenAiOiJYYnNrVEk0NHRoZmNWMUU2RmVCZHlpYVdWZndzZXhaMSIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwiLCJwZXJtaXNzaW9ucyI6WyJnZXQ6ZHJpbmtzIiwiZ2V0OmRyaW5rcy1kZXRhaWwiXX0.HsRB_CyyY02DfCa9MfvpW9sAFW0GGkhOb2_NJu9-oIK15dSASPJp4AyOEzpgsA6jRBmiSHgdxqfFCUDlEebfikxS6LNx1MPU3LHUPCQZToVTH_y1lfLc9YCMB49mK0xwCTQGW8h2JIE78G80mxcxLv_b3Axf8M5P3azgXsbU7a57rsWYby12jQMU4YuDAdeTI3fcKH7i74p1VyJfX69GUQydTXiEe-6LfQTUiaLvzAVsynQ4Nx-1JxmuUpozYmFhEeKDFtSMAx5N3ftzYB7ZeMPzMXKnWU-ykE6nI6I-U_BZy5tSoRDGwlzewoNDOe469j2su7oIq420qFMbDgLN8Q",
+							"type": "string"
+						}
+					]
+				},
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": ""
+					"raw": "http://127.0.0.1:5000/drinks",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"drinks"
+					]
 				}
 			},
 			"response": []
