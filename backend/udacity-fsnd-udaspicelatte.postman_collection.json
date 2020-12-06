@@ -1,54 +1,12 @@
 {
 	"info": {
-		"_postman_id": "75b0a0c8-1595-44cd-9c04-a55d071452de",
-		"name": "Barista",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
-	},
-	"item": [
-		{
-			"name": "Get drinks-detail",
-			"request": {
-				"auth": {
-					"type": "bearer",
-					"bearer": [
-						{
-							"key": "token",
-							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im1pQkpRNWxYZElZdU0wVlNPMFFONCJ9.eyJpc3MiOiJodHRwczovL2hhemVtZWxzYXd5LnVzLmF1dGgwLmNvbS8iLCJzdWIiOiJnb29nbGUtb2F1dGgyfDExMzI1MTUwMDIyNjQ4MTA3NTIyNiIsImF1ZCI6WyJjb2ZmZWUtc2hvcCIsImh0dHBzOi8vaGF6ZW1lbHNhd3kudXMuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTYwNzIyNTcxMCwiZXhwIjoxNjA3MjMyOTEwLCJhenAiOiJYYnNrVEk0NHRoZmNWMUU2RmVCZHlpYVdWZndzZXhaMSIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwiLCJwZXJtaXNzaW9ucyI6WyJnZXQ6ZHJpbmtzIiwiZ2V0OmRyaW5rcy1kZXRhaWwiXX0.Haa1bAx-RzstFZLRXkDsD2pieK0csR-rMSG_6GVp8hif78FBrgoQRzspPQ1etPtzryBYdMN2na4Z2uyg_8GKXcKdjNqEmxC8hIuGf50R1Yp2lfdWs4KC6_u5efBEH03df2dE6X_GI5WGMqeek_i6Jcjb9BZid74Do1-ebgE-YNxqbvUY87p9_EH6F6h-Vb-tNvdoiLnkFRcio2WUnetVjObSdyMf8nFHY5vxPJbxb-rSXgusjsQyg9EJo5ae30Zi023T_gB6XrxwB18NmAiyDnsUjd4Qrdj9SM1Eiwbox9Rf-KnbinV2NwVFtMSydPNbsujfM9qkVj2DQqw-ij9Mtw",
-							"type": "string"
-						}
-					]
-				},
-				"method": "GET",
-				"header": [],
-				"url": {
-					"raw": "http://127.0.0.1:5000/drinks-detail",
-					"protocol": "http",
-					"host": [
-						"127",
-						"0",
-						"0",
-						"1"
-					],
-					"port": "5000",
-					"path": [
-						"drinks-detail"
-					]
-				}
-			},
-			"response": []
-		}
-	],
-	"protocolProfileBehavior": {}
-}
-{
-	"info": {
 		"_postman_id": "cde37244-3e4e-41ee-bfbe-8a5f34ed4a96",
-		"name": "Manager",
+		"name": "All requests",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
 		{
-			"name": "http://127.0.0.1:5000/drinks",
+			"name": "Manager POST drinks",
 			"request": {
 				"auth": {
 					"type": "bearer",
@@ -89,7 +47,7 @@
 			"response": []
 		},
 		{
-			"name": "Patch",
+			"name": "Manager Patch drinks",
 			"request": {
 				"auth": {
 					"type": "bearer",
@@ -131,7 +89,7 @@
 			"response": []
 		},
 		{
-			"name": "Delete",
+			"name": "Manager Delete drinks",
 			"request": {
 				"auth": {
 					"type": "bearer",
@@ -159,6 +117,28 @@
 						"drinks",
 						"2"
 					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Barista GET drinks-detail",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Barista GET drinks",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
 				}
 			},
 			"response": []
