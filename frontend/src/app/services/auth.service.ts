@@ -28,7 +28,7 @@ export class AuthService {
     link += 'response_type=token&';
     link += 'client_id=' + this.clientId + '&';
     link += 'redirect_uri=' + this.callbackURL + callbackPath;
-    return link;
+    return link; 
   }
 
   // invoked in app.component on load
